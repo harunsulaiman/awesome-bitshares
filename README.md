@@ -139,6 +139,8 @@ Want to contribute to the list? Read the [contributors guide](CONTRIBUTING.md)!
 
 ### Blockchain API
 
+* [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, with BitShares listings.
+
 Given that many businesses and community members operate their own API
 endpoints, duplicating that list here would be unecessary efforts. Hence,
 we here link to the list of nodes as used in the reference wallet on
